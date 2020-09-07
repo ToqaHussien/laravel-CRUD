@@ -1,0 +1,38 @@
+.letter_spacing_h1{
+    letter-spacing: 2px;
+}
+
+
+.bg-img-home{
+    background-image: url('../images/library.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.bg-img-home .overLay{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bg-img-home h1{
+    font-size: 7rem;
+    color: white;
+}
+
+.card-Image-home{
+    width: 100%;
+    height: 200px;
+}
+.post-title{
+    font-size: 3rem;
+}
+.post-desc{
+    color: #939393;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
